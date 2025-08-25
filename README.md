@@ -32,15 +32,7 @@ Tools: [Git, VSCode, Figma]
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=sedaghat-frontdev&show_icons=true&theme=radical" alt="GitHub Stats" /><img src="https://github-readme-streak-stats.herokuapp.com/?user=sedaghat-frontdev&theme=radical" alt="GitHub Streak" /></p>
 
-### 🐍 Contribution Snake
-<div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sedaghat-frontdev/sedaghat-frontdev/output/github-snake-dark.svg">
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/sedaghat-frontdev/sedaghat-frontdev/output/github-snake.svg">
-</picture>
-
-</div>
 
 
 
