@@ -27,6 +27,8 @@
 Languages: [HTML/CSS]
 Tools: [Git, VSCode, Figma]
 
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=radical" alt="GitHub Stats" /><img src="https://github-readme-streak-stats.herokuapp.com/?user=username&theme=radical" alt="GitHub Streak" /></p>
+
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTRqdHY1cGltbHRkenAwbm5maDMyZ21xZmkxc3Jxa2w2YnpiOWVwZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dxn6fRlTIShoeBr69N/giphy.gif"/>
 </p>
