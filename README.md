@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=&color=1B1B1B&text=Hey%20,%20its%20me%20!&fontSize=90&fontColor=F72585&animation=twinkling&descAlignY=81"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=&color=1B1B1B&text=Hey%20,%20its%20me%20!&fontSize=90&fontColor=229922&animation=twinkling&descAlignY=81"/>
 </p>
 
 <!-- ✨ Stylish Header -->
@@ -29,4 +29,11 @@ Tools: [Git, VSCode, Figma]
 
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTRqdHY1cGltbHRkenAwbm5maDMyZ21xZmkxc3Jxa2w2YnpiOWVwZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dxn6fRlTIShoeBr69N/giphy.gif"/>
+</p>
+
+
+<h1 align="center">Thanks For Visiting ❤️</h1>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=&color=1B1B1B&text=Bye%20My%20Friend%20:)&fontSize=90&fontColor=229922&animation=twinkling&descAlignY=81&section=footer&fontAlignY=50"/>
 </p>
