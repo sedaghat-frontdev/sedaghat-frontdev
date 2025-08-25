@@ -47,5 +47,5 @@
 
 <!-- retro footer -->
 <p align="center">
-  <img src="(https://media.giphy.com/media/3o6Zt7XkFv4z0g0y8E/giphy.gif)">
+  <img src="[(https://media.giphy.com/media/3o6Zt7XkFv4z0g0y8E/giphy.gif)](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzJ6ZWc3MTluc294MHpsaHdsbXEyaTI0dDN1YnJtdjg1bXIzN2drYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT0BKCkJwfEHmKWMlq/giphy.gif)">
 </p>
