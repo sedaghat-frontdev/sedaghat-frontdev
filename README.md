@@ -47,5 +47,5 @@
 
 <!-- retro footer -->
 <p align="center">
-  <img src="[https://media.giphy.com/media/3o6Zt7XkFv4z0g0y8E/giphy.gif" width="100%" alt="retro scanlines](https://media.giphy.com/media/3o6Zt7XkFv4z0g0y8E/giphy.gif)">
+  <img src="(https://media.giphy.com/media/3o6Zt7XkFv4z0g0y8E/giphy.gif)">
 </p>
