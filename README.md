@@ -32,7 +32,7 @@ Tools: [Git, VSCode, Figma]
 </p>
 
 
-<h1 align="center">Thanks For Visiting ❤️</h1>
+<h1 align="center">Thank You For Visiting ❤️</h1>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=&color=1B1B1B&text=Bye%20My%20Friend%20:)&fontSize=90&fontColor=229922&animation=twinkling&descAlignY=81&section=footer&fontAlignY=50"/>
