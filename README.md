@@ -5,9 +5,12 @@
 <!-- ✨ Stylish Header -->
 <h1 align="center">Hi there, I'm [MohammadReza Sedaghat] 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Curious+Developer;Lifelong+Learner;]Eager+For+Building+Cool+Front" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Curious+Developer;Lifelong+Learner;Eager+For+Building+Cool+Front" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
 ---
 
 ### 🧠 About Me
