@@ -42,9 +42,6 @@ Tools: [Git, VSCode, Figma]
 
 </div>
 
-<p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTRqdHY1cGltbHRkenAwbm5maDMyZ21xZmkxc3Jxa2w2YnpiOWVwZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dxn6fRlTIShoeBr69N/giphy.gif"/>
-</p>
 
 
 <h1 align="center">Thank You For Visiting ❤️</h1>
