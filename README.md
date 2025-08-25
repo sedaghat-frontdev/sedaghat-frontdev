@@ -29,8 +29,6 @@
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
-  <img src="<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/29aa14ce-8ade-48ab-b5a1-251a2e980b41" />
-"/>
 
 </p>
 
