@@ -14,7 +14,7 @@
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGJ5MXRqMTF3c2U4cmNka21tczFzNzE2YzFtZzV6dzRzMDBrYTlkaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif"/>
 </p>
----
+
 
 ### 🧠 About Me
 - 🧑‍💻 Bio : [MohammadReza Sedaghat, Born at 2004 and Based in Tehran]
