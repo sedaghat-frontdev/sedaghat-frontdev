@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTRqdHY1cGltbHRkenAwbm5maDMyZ21xZmkxc3Jxa2w2YnpiOWVwZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dxn6fRlTIShoeBr69N/giphy.gif"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGJ5MXRqMTF3c2U4cmNka21tczFzNzE2YzFtZzV6dzRzMDBrYTlkaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif"/>
 </p>
 ---
 
@@ -23,6 +23,10 @@
 
 ### 🚀 Skills
 
-```yaml
+yaml
 Languages: [HTML/CSS]
 Tools: [Git, VSCode, Figma]
+
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTRqdHY1cGltbHRkenAwbm5maDMyZ21xZmkxc3Jxa2w2YnpiOWVwZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dxn6fRlTIShoeBr69N/giphy.gif"/>
+</p>
