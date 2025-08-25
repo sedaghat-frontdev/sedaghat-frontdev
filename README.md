@@ -34,7 +34,9 @@
 
 <br/>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=sedaghat-frontdev&show_icons=true&theme=radical" alt="GitHub Stats" /><img src="https://github-readme-streak-stats.herokuapp.com/?user=sedaghat-frontdev&theme=radical" alt="GitHub Streak" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=sedaghat-frontdev&show_icons=true&theme=radical" alt="GitHub Stats" /><img src="https://github-readme-streak-stats.herokuapp.com/?user=sedaghat-frontdev&theme=radical" alt="GitHub Streak" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&langs_count=8)
+</p>
 
 
 <h1 align="center">Thank You For Visiting ❤️</h1>
