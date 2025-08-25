@@ -36,9 +36,6 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=sedaghat-frontdev&show_icons=true&theme=radical" alt="GitHub Stats" /><img src="https://github-readme-streak-stats.herokuapp.com/?user=sedaghat-frontdev&theme=radical" alt="GitHub Streak" /></p>
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
-
-
 
 <h1 align="center">Thank You For Visiting ❤️</h1>
 
