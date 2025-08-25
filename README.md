@@ -14,16 +14,16 @@
 ---
 
 ### 🧠 About Me
+- 🧑‍💻 Bio : [MohammadReza Sedaghat, Born at 2004 and Based in Tehran]
 - 🎓 Expertise: [e.g. Web Development, AI, Mobile Apps]
 - 🌱 Currently learning: [Html5, Css3]
 - 💬 Ask me about: [Front-end Development, Html5, Css3]
 - 📫 Reach me at: [rezzasedaghat@gmail.com]
-
+- 📍 Location: [Iran, Tehran]
 ---
 
 ### 🚀 Skills
 
-yaml
 Languages: [HTML/CSS]
 Tools: [Git, VSCode, Figma]
 
