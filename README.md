@@ -36,7 +36,9 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=sedaghat-frontdev&show_icons=true&theme=radical" alt="GitHub Stats" /><img src="https://github-readme-streak-stats.herokuapp.com/?user=sedaghat-frontdev&theme=radical" alt="GitHub Streak" />
 </p>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sedaghat-frontdev&layout=compact&langs_count=8&theme=dracula)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sedaghat-frontdev&layout=compact&langs_count=8&theme=dracula" alt="Top Languages" />
+</p>
 
 
 
