@@ -36,7 +36,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sedaghat-frontdev&show_icons=true&theme=radical" alt="GitHub Stats" height="200px"/>  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sedaghat-frontdev&layout=compact&langs_count=8&theme=radical" alt="Top Languages" height="200px" width="500px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sedaghat-frontdev&layout=compact&langs_count=8&theme=radical" alt="Top Languages" height="200px" width="510px"/>
 </p>
 
 <p align="center">
