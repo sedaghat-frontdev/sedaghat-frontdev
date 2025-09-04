@@ -40,10 +40,10 @@
 </p>
 
 <p align="center">
-   <img width="500px" src="https://github-readme-activity-graph.vercel.app/graph?username=sedaghat-frontdev&theme=radical" height="200px" >
+   <img width="500px" src="https://github-readme-activity-graph.vercel.app/graph?username=sedaghat-frontdev&theme=radical" height="250px" >
 </p>
 
-
+![Snake animation](https://raw.githubusercontent.com/taozhi8833998/taozhi8833998/output/github-contribution-grid-snake-dark.svg)
 
 
 <h1 align="center">Thank You For Visiting ❤️</h1>
