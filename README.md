@@ -36,10 +36,10 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sedaghat-frontdev&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=sedaghat-frontdev&theme=radical">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sedaghat-frontdev&layout=compact&langs_count=8&theme=radical" alt="Top Languages" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sedaghat-frontdev&layout=compact&langs_count=8&theme=radical" alt="Top Languages" />
+   <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=sedaghat-frontdev&theme=radical">
 </p>
 
 
